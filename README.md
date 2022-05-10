@@ -1,2 +1,2 @@
 # Game-Website
-Created to try out additional html/css/javascript things.
+Created to be used as a sandbox environment to try out html/css/javascript.

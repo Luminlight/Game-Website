@@ -72,7 +72,16 @@ html, body {
     text-decoration: underline;
     margin-top: 15px;
     margin-bottom: 0px;
+}
 
+.no-list-deco {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.no-list-deco img {
+    margin-right: 2px;
 }
 
 .left-game-image {
